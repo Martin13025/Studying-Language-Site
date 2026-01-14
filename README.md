@@ -1,14 +1,37 @@
-Site about studying languages but without translator
-# language-site
-Site about studying languages. 
+# Language Site
 
-UPDATE
-Added:
-  + Translated all site to English
-  + Added improved adaptation for "Mobile-first"
+A simple website dedicated to studying foreign languages.
+The project focuses on clean structure, readability, and responsive design.
 
-Powered by Martin13025
+## About the Project
+This site presents online foreign language learning in a clear and accessible way.
+It is built as a lightweight frontend project without backend logic.
 
-For about projects text me to my tg: [https://t.me/LuciusNumerius](https://t.me/M2rR4b4t).
+## Version
+**v1.1.0**
 
-v1.0.1
+## Update Summary
+
+### What was done
+- Refactored HTML to use semantic elements  
+  (`header`, `main`, `section`, `article`, `footer`)
+- Removed inline styles and outdated layout techniques
+- Reorganized markup for better readability and maintainability
+- Rewrote CSS using modern layout methods (Flexbox and Grid)
+- Improved typography, spacing, and visual hierarchy
+- Added mobile-first responsive behavior
+- Introduced a structured footer to complete the page layout
+- Updated all content to English
+
+### Result
+- Cleaner and more maintainable codebase
+- Better semantic structure and accessibility
+- Improved visual consistency and readability
+- Layout that adapts correctly across different screen sizes
+
+> No functional logic was changed.  
+> This update focuses purely on structure, styling, and overall UI quality.
+
+## Author
+Powered by **Martin13025**
+
