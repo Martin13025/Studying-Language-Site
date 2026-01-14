@@ -31,7 +31,3 @@ It is built as a lightweight frontend project without backend logic.
 
 > No functional logic was changed.  
 > This update focuses purely on structure, styling, and overall UI quality.
-
-## Author
-Powered by **Martin13025**
-
